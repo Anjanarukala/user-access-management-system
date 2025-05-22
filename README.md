@@ -1,4 +1,4 @@
->User Access Management System
+>User Access Management System(Username: demo_admin Password: demo_pass)
 A full-stack web application designed to manage software access requests within an organization, featuring role-based access control (RBAC) for different user types: Admin, Manager, and Employee.
 
 >Features
